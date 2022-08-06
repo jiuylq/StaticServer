@@ -1,0 +1,27 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "bin": {
+    "hope": "bin/hope"
+  },
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "axios": "^0.19.0",
+    "http-proxy": "^1.18.0",
+    "mime": "^2.4.4",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "description": ""
+}

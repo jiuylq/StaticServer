@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{{title}}</title>
+</head>
+<body>
+    <h1>static-server静态文件服务器</h1>
+    <ul>
+        {{each fileList}}
+        <li>
+            <a href={{$value.url}}>{{$index}} {{$value.filename}}</a>
+        </li>
+        {{/each}}
+        <img src="./images/1.png" >
+        <img src="./images/2.png" >
+        <img src="./images/3.png" >
+        <img src="./images/4.png" >
+    </ul>
+    <script src="./index.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>

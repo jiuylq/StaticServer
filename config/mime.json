@@ -1,0 +1,73 @@
+{
+    "css": {
+      "contentType": "text/css"
+    },
+    "gif": {
+      "contentType": "image/gif",
+      "mediaType": "image"
+    },
+    "html": {
+      "contentType": "text/html"
+    },
+    "ico": {
+      "contentType": "image/x-icon",
+      "mediaType": "image"
+    },
+    "jpeg": {
+      "contentType": "image/jpeg",
+      "mediaType": "image"
+    },
+    "jpg": {
+      "contentType": "image/jpeg",
+      "mediaType": "image"
+    },
+    "js": {
+      "contentType": "text/javascript"
+    },
+    "json": {
+      "contentType": "application/json"
+    },
+    "pdf": {
+      "contentType": "application/pdf"
+    },
+    "png": {
+      "contentType": "image/png",
+      "mediaType": "image"
+    },
+    "svg": {
+      "contentType": "image/svg+xml",
+      "mediaType": "image"
+    },
+    "swf": {
+      "contentType": "application/x-shockwave-flash"
+    },
+    "tiff": {
+      "contentType": "image/tiff"
+    },
+    "txt": {
+      "contentType": "text/plain"
+    },
+    "wav": {
+      "contentType": "audio/x-wav"
+    },
+    "wma": {
+      "contentType": "audio/x-ms-wma"
+    },
+    "wmv": {
+      "contentType": "video/x-ms-wmv"
+    },
+    "xml": {
+      "contentType": "text/xml"
+    },
+    "mp4": {
+      "contentType": "video/mp4",
+      "mediaType": "video"
+    },
+    "m3u8": {
+      "contentType": "application/x-mpegURL",
+      "mediaType": "video"
+    },
+    "unkown": {
+      "contentType": "application/octet-stream"
+    }
+  }
